@@ -2,8 +2,7 @@
 
 - Um aspirante a desenvolvedor em desenvolvimento.
 - Apaixonado por Tecnologia e Inovação.
-- Graduando em Ciências da Computação e estudande de Analise e Densenvolvimento de Sistemas, em busca da primeira vaga na área de programação.
-
+- Graduando em Ciências da Computação e estudante de Analise e Desenvolvimento de Sistemas, em busca da primeira vaga na área de programação.
 
 # Linguagens em Aprendizado:
 
